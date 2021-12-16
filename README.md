@@ -21,7 +21,8 @@ iii.‘BRCA_sample_1_MMPDNB_PS.mat’ indicates the DNB corresponding to Pareto 
 (3)BRCA_DNB_name.txt: Genes’ name of multi-modal PDNB or PDNB with the biggest score  of BRCA patients.
 i.For example：i-th patient: patient’s ID. PDNB or multi-modal PDNB: the name of genes in PDNB or multi-modal PDNB.
 
-Suggestions
+Suggestions:
+
 (1)Hardware suggestions for running this package: Window 10 or above; Matlab 2016 or above; RAM 32G or above.
 
 (2)When users analyzed running this package, please note that:
